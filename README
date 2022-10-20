@@ -1,0 +1,10 @@
+This program displays the first initial of my first name, pauses, and then displays the first initial of my last name:
+
+To compile the program, enter the follow line of code, on cisc210.cis.udel.edu:
+    gcc -o rjsexton rjsexton.c -lncurses
+
+To run the executable enter the following on cisc210.cis.udel.edu:
+    ./rjsexton
+
+The first initial of my first name has a background color of BLACK and a foreground color of WHITE
+The first initial of my last name has a background color of GREEN and a foreground color of WHITE
